@@ -2,6 +2,7 @@
 #Motivation: 
 
 This Hackathon our teams is tasked with data-cleaning strategies for movie data with the goal of that reconstructing it and compiling the data from various data sources. The content covers a decade of many of the popular films we have watched over the years. 
+
 #Purpose:
 
 Demonstrate the value of data cleaning strategies and the importance of inspecting the data. We have a few data sources and so keep in mind best practices so that our data structure is consistent. 
